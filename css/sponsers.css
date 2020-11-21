@@ -1,0 +1,28 @@
+.sponsers {
+  padding: 20px 0;
+}
+.section-padding {
+  padding: 20px 10px;
+  border: 1px solid #ec5555;
+  border-radius: 20px;
+}
+.brand-carousel {
+  background: none;
+}
+.owl-dots {
+  text-align: center;
+  margin-top: 0%;
+}
+
+.owl-dot {
+  display: none;
+  height: 15px !important;
+  width: 15px !important;
+  background-color: #878787 !important;
+  opacity: 0.8;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+.owl-dot.active {
+  background-color: #000 !important;
+}

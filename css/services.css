@@ -1,0 +1,19 @@
+.services {
+  background-color: #fff;
+  padding: 40px 0 20px;
+}
+.services .flex {
+  display: flex;
+  align-content: space-between;
+  flex-direction: column;
+  height: 100%;
+}
+.services .h4 {
+  font-weight: 700;
+  color: #ec5555;
+  padding-bottom: 15px;
+}
+.services .sevices-header {
+  font-weight: 900;
+  font-size: 43px;
+}

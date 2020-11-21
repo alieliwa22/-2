@@ -1,0 +1,32 @@
+.about-us {
+  background-color: #fff;
+  padding: 50px 0 30px;
+}
+.about-us .flex {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: 100%;
+}
+.about-us .flex .h4 {
+  font-weight: 700;
+  color: #ec5555;
+  padding-bottom: 15px;
+}
+.about-us .flex .about-header {
+  font-weight: 900;
+  font-size: 43px;
+}
+.about-us .flex .btn {
+  background-color: #ec5555;
+  width: 30%;
+  font-weight: 600;
+  transition: all ease-in-out 0.3s;
+}
+.about-us .flex .btn:hover {
+  background-color: white;
+  color: #ec5555;
+  outline-style: solid;
+  outline-color: #ec5555;
+  outline-width: 1px;
+}
