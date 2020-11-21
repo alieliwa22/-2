@@ -1,0 +1,19 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "try",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alieliwa22/-2.git"
+  },
+  "author": "ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alieliwa22/-2/issues"
+  },
+  "homepage": "https://github.com/alieliwa22/-2#readme"
+}
